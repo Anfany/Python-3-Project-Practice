@@ -5,21 +5,22 @@
 
   + **世卫组织0-5岁儿童发育数据**
   
-
-  + **获取数据：[]**
-
-
-  + **绘制曲线：[]**
+     + **男童：**
+     
+     + **女童：**
   
-  
+
+  + **获取数据：[stand_data_spyder.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/stand_data_spyder.py)**
+
+
+  + **绘制曲线：[baby_grow.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/baby_grow_report.py)**
   
   + **生成PDF报告**
   
-      + **生成.docx：[]**
+      + **生成.docx：[baby_grow_report.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/baby_grow_report.py)**
       
-      + **转为PDF：[]**
+      + **转为PDF：[add_report.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/add_report.py)**
   
-
 
   + **报告示例**
   
