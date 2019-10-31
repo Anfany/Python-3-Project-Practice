@@ -5,15 +5,15 @@
 
   + **世卫组织0-5岁儿童发育数据**
   
-     + **男童：**
-     
-     + **女童：**
+      + **男童：[Eric_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Eric_report.pdf)**
+      
+      + **女童：[Alina_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Alina_report.pdf)**
   
 
   + **获取数据：[stand_data_spyder.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/stand_data_spyder.py)**
 
 
-  + **绘制曲线：[baby_grow.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/baby_grow_report.py)**
+  + **绘制曲线：[baby_grow.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/baby_grow.py)**
   
   + **生成PDF报告**
   
@@ -24,9 +24,9 @@
 
   + **报告示例**
   
-      + **男童：[]**
+      + **男童：[boys_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/boys_p_exp.xls)**
       
-      + **女童：[]**
+      + **女童：[girls_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/girls_p_exp.xls)**
   
       
 
