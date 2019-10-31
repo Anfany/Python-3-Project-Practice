@@ -5,10 +5,9 @@
 
   + **世卫组织0-5岁儿童发育数据**
   
-      + **男童：[Eric_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Eric_report.pdf)**
+      + **男童：[boys_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/boys_p_exp.xls)**
       
-      + **女童：[Alina_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Alina_report.pdf)**
-  
+      + **女童：[girls_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/girls_p_exp.xls)**
 
   + **获取数据：[stand_data_spyder.py](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/stand_data_spyder.py)**
 
@@ -23,10 +22,8 @@
   
 
   + **报告示例**
-  
-      + **男童：[boys_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/boys_p_exp.xls)**
-      
-      + **女童：[girls_p_exp.xls](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/girls_p_exp.xls)**
-  
-      
 
+      + **男童：[Eric_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Eric_report.pdf)**
+      
+      + **女童：[Alina_report.pdf](https://github.com/Anfany/Python-3-Project-Practice/blob/master/1-Baby_Report/Alina_report.pdf)**
+  
